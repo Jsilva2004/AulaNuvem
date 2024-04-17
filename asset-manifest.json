@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AulaNuvem/static/css/main.f855e6bc.css",
+    "main.js": "/AulaNuvem/static/js/main.01ae9949.js",
+    "static/js/453.d94ec23c.chunk.js": "/AulaNuvem/static/js/453.d94ec23c.chunk.js",
+    "index.html": "/AulaNuvem/index.html",
+    "main.f855e6bc.css.map": "/AulaNuvem/static/css/main.f855e6bc.css.map",
+    "main.01ae9949.js.map": "/AulaNuvem/static/js/main.01ae9949.js.map",
+    "453.d94ec23c.chunk.js.map": "/AulaNuvem/static/js/453.d94ec23c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.01ae9949.js"
+  ]
+}
